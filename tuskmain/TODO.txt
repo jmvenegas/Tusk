@@ -1,0 +1,31 @@
+# Formal TODO list (user stories)
+
+1. Make a testing module for each class				[ ] 
+Model
+	configmodel.go			[ ] // Unecessary
+	dbmanager.go 			[X]
+	logmodel.go				[X]
+	querymodel.go 			[X]
+	testmodel.go 			[X]
+	tuskinterface.go 		[ ] // Unecessary
+	webservermodel.go 		[ ]
+	errormodel.go			[ ] // Unecessary
+
+Parsing
+	utilparser.go 			[ ]
+
+Analytics
+
+2. Create base Analytics class						[ ]
+
+3. Write python modules for curl call testing			[ ]
+
+4. Add logging to dbmanager.go						[ ]
+	Query logging			[ ]
+	Upload logging			[ ]
+	
+5. Test each dbmanager query							[ ]
+
+6. Create module for error handling class				[ ]
+
+7. Ensure Tester Implementers don't have null ptrs	[ ]

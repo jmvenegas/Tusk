@@ -1,0 +1,7 @@
+{
+	"Socket":":8585",
+	"DBUser":"root",
+	"DBPass":"watino",
+	"DBSocket":"192.168.1.107:3306",
+	"DBName":"test"
+}
